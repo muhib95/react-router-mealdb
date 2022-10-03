@@ -1,0 +1,13 @@
+.meal{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.meal-detail{
+  width: 500px;
+  height: 400px;
+}
+.meal-detail img{
+  width: 400px;
+}
